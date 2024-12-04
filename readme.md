@@ -1,4 +1,3 @@
-README 
-
-ALL RIGHT TO CODEPEN.IO AND MIT
-THIS IS NO-LISENCE CONTENT
+**PONG**                                                                 
+Click to change the direction of the paddle
+Beat the AI !
